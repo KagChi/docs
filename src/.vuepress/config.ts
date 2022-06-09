@@ -15,12 +15,6 @@ export default {
     repo: 'KagChi/docs',
     editLinks: true,
     lastUpdated: true,
-    navbar: [
-      {
-        text: 'Guide',
-        link: '/guide/',
-      }
-    ],
     sidebar: {
       '/': [
         {
