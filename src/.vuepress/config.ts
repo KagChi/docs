@@ -34,6 +34,12 @@ export default {
           children: [
               '/rate-limits/'
           ]
+        },
+        {
+          text: "Routes",
+          children: [
+              '/routes/'
+          ]
         }
       ]
     }
