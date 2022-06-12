@@ -32,7 +32,8 @@ export default {
         {
           text: "Routes",
           children: [
-              '/routes/'
+              '/routes/',
+              '/routes/reaction/'
           ]
         }
       ]
